@@ -9,6 +9,8 @@ let mixto: any[] = ["Hola", 100, true, 45.67];
 console.log("Mixto:", mixto);
 
 // array tipo interfaz
+// una interfaz es una forma de definir la estructura de un objeto
+
 interface Persona {     
     nombre: string;
     edad: number;
