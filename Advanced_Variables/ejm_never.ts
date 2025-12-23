@@ -19,4 +19,4 @@ function getArea(shape: Shape): number {
 console.log(getArea("circle"));
 getArea("square");
 getArea("triangle");
-getArea("rectangle"); // This will cause a compile-time error
+//getArea("rectangle"); // This will cause a compile-time error
