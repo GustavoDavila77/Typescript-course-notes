@@ -16,6 +16,7 @@ function sumarTodos(...numeros: number[]): number {
 
 console.log("El resultado de sumar todos es:", sumarTodos(0, 3, 6, 7,4));
 
+
 // valores por defecto
 function despedir(nombre: string, despedida: string = "Adiós"): string {
     return `${despedida}, ${nombre}!`;  
