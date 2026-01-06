@@ -1,3 +1,4 @@
+console.log("Ejercicio: text_formatter.ts");
 // implementación
 function formatter(input) {
     if (typeof input === "string") {
@@ -12,5 +13,5 @@ function formatter(input) {
 }
 // Pruebas
 //console.log(formatter("hola"));           
-console.log(formatter(1500.5));
+//console.log(formatter(1500.5));          
 //console.log(formatter(["uno", "dos"]));
